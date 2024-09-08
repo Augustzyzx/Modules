@@ -26,7 +26,7 @@ ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.218742043, 0, -0.155235752, 0)
 ImageButton.Size = UDim2.new(0, 64, 0, 64)
-ImageButton.Image = "rbxassetid://17717916449"
+ImageButton.Image = "rbxassetid://129553550422147"
 ImageButton.Draggable = true
 ImageButton.MouseButton1Click:Connect(function()
 	game:GetService('VirtualInputManager'):SendKeyEvent(true,"RightControl",false,game)
@@ -48,7 +48,7 @@ do
 		ui:Destroy()
 	end
 end
-local logo = "17788183385"
+local logo = "129553550422147"
 local ToggleImage = false
 local ButtonImage = false
 --if logo == 14924433216 then logo = 14924433216 end
